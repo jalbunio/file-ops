@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.albunio</groupId>
 	<artifactId>file-ops</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<name>file-ops</name>
 	<description>File Operations Utils</description>
 	
